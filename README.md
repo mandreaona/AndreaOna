@@ -5,7 +5,7 @@
 <p> 💞 Data Visualization enthusiast -- Tableau and Microsoft Power BI.
     
     
-| End Date      | Course                      | University                            |  Location                     |
+| End Date      | Program                     | University                            |  Location                     |
 | ------------- |-----------------------------| --------------------------------------| ------------------------------|
 | 2019          | Actuarial Science           | University of Santo Tomas             |   Manila, Philippines         |
 | 2021          | Business Analytics          | Hult International Business School    |   Boston (MA), United States  |
