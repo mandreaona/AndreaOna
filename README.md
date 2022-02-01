@@ -1,6 +1,6 @@
 # Hey, I am Andi!👋🏼
 
-<p> 👀 I'm gaining expertise in Business Analytics/Data Science.
+<p> 👀 I'm currently gaining expertise in Business Analytics/Data Science.
 <p> 🌱 I'm currently in the process of coding comfortably in R, SQL and Python. 
 <p> 💞 Data Visualization enthusiast -- Tableau and Microsoft Power BI.
     
